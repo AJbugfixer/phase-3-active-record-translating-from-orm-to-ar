@@ -1,0 +1,13 @@
+current directory: /home/ajayip/Devlopment/code/ruby/orm/phase-3-active-record-translating-from-orm-to-ar/vendor/bundle/ruby/2.7.0/gems/json-1.8.6/ext/json
+/usr/share/rvm/rubies/ruby-2.7.4/bin/ruby -I /usr/share/rvm/rubies/ruby-2.7.4/lib/ruby/site_ruby/2.7.0 extconf.rb
+creating Makefile
+
+current directory: /home/ajayip/Devlopment/code/ruby/orm/phase-3-active-record-translating-from-orm-to-ar/vendor/bundle/ruby/2.7.0/gems/json-1.8.6/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20220803-3472-xgz7ng sitelibdir\=./.gem.20220803-3472-xgz7ng clean
+
+current directory: /home/ajayip/Devlopment/code/ruby/orm/phase-3-active-record-translating-from-orm-to-ar/vendor/bundle/ruby/2.7.0/gems/json-1.8.6/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20220803-3472-xgz7ng sitelibdir\=./.gem.20220803-3472-xgz7ng
+make: Nothing to be done for 'all'.
+
+current directory: /home/ajayip/Devlopment/code/ruby/orm/phase-3-active-record-translating-from-orm-to-ar/vendor/bundle/ruby/2.7.0/gems/json-1.8.6/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20220803-3472-xgz7ng sitelibdir\=./.gem.20220803-3472-xgz7ng install
